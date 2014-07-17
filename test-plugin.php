@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:       Test Plugin
-Plugin URI:        https://github.com/https://github.com/roadsidemultimedia/test-plugin
+Plugin URI:        https://github.com/roadsidemultimedia/test-plugin
 Version:           1.0.1
 Text Domain:       events-calendar-category-colors
 License:           GNU General Public License v2
